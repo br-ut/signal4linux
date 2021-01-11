@@ -1,3 +1,5 @@
+#!/bin/sh
+
 #credits to www.signal.org
 
 # NOTE: These instructions only work for 64 bit Debian-based
